@@ -23,10 +23,7 @@ Nama Anggota Kelompok:
 ![IMG-20240610-WA0021](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/1bb83d23-ded0-4a72-8698-bc3f1ab81b94)
 ![IMG-20240610-WA0020](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/216ec4fc-bdd5-48d1-a801-c1a651112de4)
 ![IMG-20240610-WA0024](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/83a9cbfd-c9f7-4442-b266-f10b90c5a823)
-![IMG-20240610-WA0023](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/20b17693-ab09-4ec6-8eb1-1d71d9702d72)
+![IMG-20240610-WA0026](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/63482015-486d-46d3-9552-479174e2325e)
 ![IMG-20240610-WA0025](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/a35def18-604c-4adb-af9b-311a7803b7e0)
 ![IMG-20240610-WA0022](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/5b4fc2cc-be7e-4b55-9602-7a32688dbdb2)
-![IMG-20240610-WA0026](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/63482015-486d-46d3-9552-479174e2325e)
-
-
-
+![IMG-20240610-WA0023](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/20b17693-ab09-4ec6-8eb1-1d71d9702d72)
