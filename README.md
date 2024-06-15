@@ -5,9 +5,9 @@ Nama Anggota Kelompok:
 4. Annisa Nabila Rafiah (22091397101)
 
 **TAMPILAN APLIKASI PENGELOLA KELAS**
+![IMG-20240610-WA0011](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/4aa516c1-da8e-4e90-a938-1e8103ec9f05)
 ***ADMIN***
 ![IMG-20240610-WA0010](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/e0e94664-9ad3-4682-8905-96a648823f0f)
-![IMG-20240610-WA0011](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/4aa516c1-da8e-4e90-a938-1e8103ec9f05)
 ![IMG-20240610-WA0012](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/f16ff8de-8e53-408d-87d7-da85c4fadc9d)
 ![IMG-20240610-WA0013](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/3225a620-74e4-49be-91b1-78cb8ebae779)
 ![IMG-20240610-WA0014](https://github.com/sintiyaaa73/Aplikasi-Pengelola-Kelas/assets/124550908/85985026-703a-425c-9404-d56daf41c131)
